@@ -5,7 +5,7 @@
       border: 1px solid #ddd;
       border-radius: 5px;
       background-color: burlywood;
-      background-image: url(images/角色图/阿米娅1.jpg);
+      background-image: url(MyWeb/images/角色图/阿米娅1.jpg);
       background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -23,7 +23,7 @@
       border: 1px solid #ddd;
       border-radius: 5px;
       background-color:chartreuse;
-      background-image: url(images/角色图/凯尔希1.png);
+      background-image: url(MyWeb/images/角色图/凯尔希1.png);
       background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -41,7 +41,7 @@
       border: 1px solid #ddd;
       border-radius: 5px;
       background-color: lightblue;
-      background-image: url(images/角色图/博士1.jpg);
+      background-image: url(MyWeb/images/角色图/博士1.jpg);
       background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -60,7 +60,7 @@
       border: 1px solid #ddd;
       border-radius: 5px;
       background-color: lightcoral;
-      background-image: url(images/角色图/陈1.jpeg);
+      background-image: url(MyWeb/images/角色图/陈1.jpeg);
       background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -84,7 +84,7 @@
         left: 5vw;
         top: 0px;
         line-height: 80px;
-        background-image: url(images/标题.png);
+        background-image: url(MyWeb/images/标题.png);
         width: 400px;
         background-size: contain;
         background-repeat:no-repeat;
