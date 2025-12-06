@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color:black;
+    color: #333;
+}
+p{
+    margin-bottom: 15px;
+    color: white;
+}
+    header ul{
+        position: absolute;
+        right: 5vw;
+        top: 30px;
+        line-height: 50px;
+    }
+    h1{
+        position: absolute;
+        left: 5vw;
+        top: 0px;
+        line-height: 80px;
+        background-image: url(images/标题.png);
+        width: 400px;
+        background-size: contain;
+        background-repeat:no-repeat;
+        text-indent:-99999px
+    }
+    header{
+      margin: 0px;
+      padding: 60px;
+      border: 1px  #ddd;
+      border-radius: 5px;
+      background-color: black;
+    }
+        header li {
+      display: inline;
+      margin-right: 15px;
+    }
+    header h1 {
+      color:black;
+      top : 0;
+
+    }
+    header blackquote {
+      text-align: center;
+    }
+    header a {
+      text-decoration: none;
+      color: white;
+    }
+    header a:hover {
+      text-decoration: underline;
+    }

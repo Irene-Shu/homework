@@ -1,0 +1,83 @@
+.战斗玩法{
+    font-size: 20px;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: lightgray;
+}
+.职业分支{
+    font-size: 20px;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: lightyellow;
+}
+.基建系统{
+    font-size: 20px;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: lightpink;
+}
+.干员培养{
+    font-size: 20px;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: lightcoral;
+}
+.其他玩法{
+    font-size: 20px;
+    margin: 10px;
+    padding: 50px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: lightgreen;
+}
+    header ul{
+        position: absolute;
+        right: 5vw;
+        top: 30px;
+        line-height: 50px;
+    }
+    h1{
+        position: absolute;
+        left: 5vw;
+        top: 0px;
+        line-height: 80px;
+        background-image: url(images/标题.png);
+        width: 400px;
+        background-size: contain;
+        background-repeat:no-repeat;
+        text-indent:-99999px
+    }
+    header{
+      margin: 10px;
+      padding: 60px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: black;
+    }
+        header li {
+      display: inline;
+      margin-right: 15px;
+    }
+    header h1 {
+      color:black;
+      top : 0;
+
+    }
+    header blackquote {
+      text-align: center;
+    }
+    header a {
+      text-decoration: none;
+      color: white;
+    }
+    header a:hover {
+      text-decoration: underline;
+    }

@@ -1,0 +1,118 @@
+
+.阿米娅{
+      margin: 0px;
+      padding: 100px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: burlywood;
+      background-image: url(images/角色图/阿米娅1.jpg);
+      background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        p{
+           font-size: 20px;
+        }
+        blackquote{
+           color:aqua;
+           font-size: 30px;
+        }
+    }
+ .凯尔希{
+      margin: 0px;
+      padding: 100px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color:chartreuse;
+      background-image: url(images/角色图/凯尔希1.png);
+      background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        p{
+           font-size: 20px;
+        }
+        blackquote{
+           color:chartreuse;
+              font-size: 30px;
+        }
+    }
+.博士{
+      margin: 0px;
+      padding: 100px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: lightblue;
+      background-image: url(images/角色图/博士1.jpg);
+      background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        p{
+           color: #ddd;
+           font-size: 20px;
+        }
+        blackquote{
+           color:darkkhaki;
+        font-size: 30px;
+        }
+    }
+.陈{
+      margin: 0px;
+      padding: 100px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: lightcoral;
+      background-image: url(images/角色图/陈1.jpeg);
+      background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        p{
+           color: #ddd;
+            font-size: 20px;
+        }
+        blackquote{
+           color:firebrick;
+           font-size: 30px;
+        }
+    }
+    header ul{
+        position: absolute;
+        right: 5vw;
+        top: 30px;
+        line-height: 50px;
+    }
+    h1{
+        position: absolute;
+        left: 5vw;
+        top: 0px;
+        line-height: 80px;
+        background-image: url(images/标题.png);
+        width: 400px;
+        background-size: contain;
+        background-repeat:no-repeat;
+        text-indent:-99999px
+    }
+    header{
+      margin: 0px;
+      padding: 60px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: black;
+    }
+        header li {
+      display: inline;
+      margin-right: 15px;
+    }
+    header h1 {
+      color:black;
+      top : 0;
+
+    }
+    header blackquote {
+      text-align: center;
+    }
+    header a {
+      text-decoration: none;
+      color: white;
+    }
+    header a:hover {
+      text-decoration: underline;
+    }
