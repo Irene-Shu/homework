@@ -4,7 +4,7 @@
       border: 1px solid #ddd;
       border-radius: 5px;
       background-color: burlywood; 
-      background-image: url(images/剧情图/世界观背景.webp);
+      background-image: url(MyWeb/images/剧情图/世界观背景.webp);
       background-repeat: no-repeat;
         background-size: cover;
         background-position: center;      
@@ -43,7 +43,7 @@
         left: 5vw;
         top: 0px;
         line-height: 80px;
-        background-image: url(images/标题.png);
+        background-image: url(MyWeb/images/标题.png);
         width: 400px;
         background-size: contain;
         background-repeat:no-repeat;
